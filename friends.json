@@ -1,0 +1,58 @@
+[
+    {
+        "player_id": "170387491",
+        "player_name": "inimigodascatraca",
+        "date_joined": "1643164452",
+        "last_time_online": "1773587015",
+        "current_rating": 546,
+        "best_rating": 634,
+        "wins": 454,
+        "loses": 481,
+        "draws": 55,
+        "total_times_played": 990,
+        "percentual_of_victories": 46,
+        "amount_of_followers": 20
+    },
+    {
+        "player_id": "536904941",
+        "player_name": "anciao_cababom",
+        "date_joined": "1772662477",
+        "last_time_online": "1773586760",
+        "current_rating": 271,
+        "best_rating": 336,
+        "wins": 23,
+        "loses": 26,
+        "draws": 4,
+        "total_times_played": 53,
+        "percentual_of_victories": 43,
+        "amount_of_followers": 4
+    },
+    {
+        "player_id": "350275353",
+        "player_name": "fibonacci078",
+        "date_joined": "1710188683",
+        "last_time_online": "1773323169",
+        "current_rating": 760,
+        "best_rating": 770,
+        "wins": 437,
+        "loses": 338,
+        "draws": 38,
+        "total_times_played": 813,
+        "percentual_of_victories": 54,
+        "amount_of_followers": 22
+    },
+    {
+        "player_id": "413908705",
+        "player_name": "thur50",
+        "date_joined": "1735608754",
+        "last_time_online": "1772818395",
+        "current_rating": 574,
+        "best_rating": 574,
+        "wins": 198,
+        "loses": 152,
+        "draws": 21,
+        "total_times_played": 371,
+        "percentual_of_victories": 53,
+        "amount_of_followers": 7
+    }
+]

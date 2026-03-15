@@ -1,0 +1,16 @@
+{
+    "name": "mateus/chess-observer",
+    "description": "Um script que ultiliza da API pública do chess.com para pegar métricas dos perfis dos meus amigos",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "oestrangeiro",
+            "email": "mateus12092004@gmail.com"
+        }
+    ],
+    "require": {}
+}
